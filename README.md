@@ -1,2 +1,2 @@
 # HTimeFormat
-Time formatting in pure Lua.
+Time formatting in Lua. Especially MysticCraftPlayz wanted this program
